@@ -9,14 +9,14 @@ Vinyl records were created in the 1930s, as a method to bring music to every lis
 ## How to Construct Database:
 
 The following MySQL scripts must be executed in the following order:
-- singer, producers, and labels
-- vinyl
-- vinyllabel
-- song
-- musical_info
-- ratings
-- certification
-- placement and prices
+- project_singers.sql, project_producers.sql, and project_labels.sql
+- project_vinyl.sql
+- project_vinyllabels.sql
+- project_songs.sql
+- project_musical_info.sql
+- project_ratings.sql
+- project_certification.sql
+- project_placement.sql and project_prices.sql
 
 ## Logical Design
 

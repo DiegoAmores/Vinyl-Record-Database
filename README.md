@@ -18,7 +18,7 @@ The following MySQL scripts must be executed in the following order:
 - project_certification.sql
 - project_placement.sql and project_prices.sql
 
-## Logical Design
+## Logical Design:
 
 ![Entity Relationship Diagram](https://github.com/DiegoAmores/Vinyl-Record-Database/blob/main/vinyl_erd.PNG) <br>
 Figure 1: Our logical design was based on organizing information into categories that would make the most sense for each piece of information that we wanted to convey. <br>

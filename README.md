@@ -26,7 +26,7 @@ Figure 1: Our logical design was based on organizing information into categories
 | **tracksbygenre**             |      |           | x           |         |          |
 | **vinyl_musical_info**        | x    | x         |             |         |          |
 | **vinyl_budget**              | x    | x         |             |         |          |
-| **vinyl_label_link**          | x    |           |             |         |          |
+| **vinyl_label_link**          | x    |           |             | x       |          |
 | **Total**                     | 9    | 5         | 5           | 2       | 2        |
 
 ## References:

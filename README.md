@@ -4,7 +4,7 @@ Team members: Kamran Djourshari, Diego Amores, Vi Le, Guanzhi Chen, Chi-Hao Shen
 
 ## Introduction:
 
-A MySQL vinyl record database that consists of 20 vinyl records with useful information.
+Vinyl records were created in the 1930s, as a method to bring music to every listener’s home environment. Vinyl records describe music albums that put different songs together, from one artist, for music listeners to enjoy. With so many different artists available, we thought it would be a good idea to highlight some of the classics/hits over the years. We were motivated to bring this information together into one database for all music listeners to enjoy and deep dive into.
 
 ## How to construct database:
 

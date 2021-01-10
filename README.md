@@ -11,7 +11,7 @@ Vinyl records were created in the 1930s, as a method to bring music to every lis
 
 ## Logical Design
 
-![Entity Relationship Diagram](https://github.com/DiegoAmores/Vinyl-Record-Database/blob/main/vinyl_erd.PNG)
+![Entity Relationship Diagram](https://github.com/DiegoAmores/Vinyl-Record-Database/blob/main/vinyl_erd.PNG) <br>
 Figure 1: Our logical design was based on organizing information into categories that would make the most sense for each piece of information that we wanted to convey. <br>
 
 ## Views/Queries:

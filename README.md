@@ -1,6 +1,6 @@
 # INST 327 Final Project: Vinyl Record Database <br>
 
-Team members: Kamran Djourshari, Diego Amores, Vi Le, Guanzhi Chen, Chi-Hao Sheng <br>
+Team Members: Kamran Djourshari, Diego Amores, Vi Le, Guanzhi Chen, Chi-Hao Sheng <br>
 
 ## Introduction:
 

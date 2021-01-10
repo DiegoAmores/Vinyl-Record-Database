@@ -16,7 +16,7 @@ Figure 1: Our logical design was based on organizing information into categories
 
 ## Views/Queries:
 |              View Name              |    Join     |    Filtering    |    Aggregation    |    Linking    |    Subquery    |
-|:-----------------------------------:|:-----------:|:----------------|:------------------|:--------------|:---------------|
+|:-----------------------------------:|:-----------:|:---------------:|:-----------------:|:-------------:|:--------------:|
 |          **vinyl_info**             |      x      |                 |                   |               |                |
 |      **vinyl_certification**        |      x      |        x        |                   |               |                |
 |     **songs_above_average_bpm**     |      x      |        x        |         x         |               |        x       |

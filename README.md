@@ -8,6 +8,15 @@ Vinyl records were created in the 1930s, as a method to bring music to every lis
 
 ## How to Construct Database:
 
+The following MySQL scripts must be executed in the following order:
+- singer, producers, and labels
+- vinyl
+- vinyllabel
+- song
+- musical_info
+- ratings
+- certification
+- placement and prices
 
 ## Logical Design
 

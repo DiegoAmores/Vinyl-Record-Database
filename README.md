@@ -14,7 +14,20 @@ Vinyl records were created in the 1930s, as a method to bring music to every lis
 ![]()
 Figure 1: Our logical design was based on organizing information into categories that would make the most sense for each piece of information that we wanted to convey. <br>
 
-## Sample Views:
+## Views/Queries:
+|              View Name              |    Join     |    Filtering    |    Aggregation    |    Linking    |    Subquery    |
+|:-----------------------------------:|:-----------:|:----------------|:------------------|:--------------|:---------------|
+|          **vinyl_info**             |      x      |                 |                   |               |                |
+|      **vinyl_certification**        |      x      |        x        |                   |               |                |
+|     **songs_above_average_bpm**     |      x      |        x        |         x         |               |        x       |
+|         **label_ratings**           |      x      |        x        |         x         |       x       |                |
+|    **album_placement_rating**       |      x      |                 |         x         |               |        x       |
+|           **label_count**           |      x      |                 |         x         |               |                |
+|          **tracksbygenre**          |             |                 |         x         |               |                |
+|       **vinyl_musical_info**        |      x      |        x        |                   |               |                |
+|          **vinyl_budget**           |      x      |        x        |                   |               |                |
+|       **vinyl_label_link**          |      x      |                 |                   |               |                |
+|              **Total**              |      9      |        5        |         5         |       2       |        2       |
 
 ## References:
 - Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more. (2019). Amazon.Com. https://www.amazon.com/
